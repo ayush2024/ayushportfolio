@@ -1,4 +1,4 @@
-Portfilio Live at https://ayush2024.github.io/ayushportfolio/
+
 
 ![image](https://github.com/ayush2024/ayushportfolio/assets/88491971/86f216d3-67ee-4c33-b68a-a6a2168d5776)
 
